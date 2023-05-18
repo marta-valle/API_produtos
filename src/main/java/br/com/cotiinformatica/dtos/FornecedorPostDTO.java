@@ -15,6 +15,6 @@ import lombok.ToString;
 public class FornecedorPostDTO {
 
 	private String nome;
-	private String cnjp;
+	private String cnpj;
 	private String telefone;
 }
