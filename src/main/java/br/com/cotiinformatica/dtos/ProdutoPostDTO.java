@@ -18,5 +18,5 @@ public class ProdutoPostDTO {
 	private Double preco;
 	private Integer quantidade;
 	private String descricao;	
-	private String idfornecedor; //SERÁ FK
+	private Integer idFornecedor; //SERÁ FK
 }
